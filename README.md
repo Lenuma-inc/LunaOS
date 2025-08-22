@@ -28,7 +28,7 @@ Feel free to **explore**, **fork**, and **contribute**!
 ## 💾 Download the Latest ISO
 Get the latest LunaOS ISO for `x86_64` architectures:  
 - 📥 [lunaos-latest-x86_64.iso](https://illumionix.ru/ISO/lunaos-latest-x86_64.iso)
-- 🔒 [SHA256 Checksum](https://illumionix.ru/ISO/lunaos-latest-x86_64.iso.sha256)
+- 🔒 [SHA256 Checksum](https://illumionix.ru/ISO/lunaos-latest-x86_64.iso.sha256sum)
 - 🔑 [GPG Signature](https://illumionix.ru/ISO/lunaos-latest-x86_64.iso.asc)
 
 ✅ Always verify integrity with the provided checksum and signature. 
