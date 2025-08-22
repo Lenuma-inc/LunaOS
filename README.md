@@ -56,7 +56,7 @@ We welcome contributions from the community!
 ---
 
 ## 📬 Contact & Community
-- 🌐 Website: [illumionix.ru](https://illumionix.ru)  
+- 🌐 Website: [lenuma.ru](https://lenuma.ru)
 
 ---
 
